@@ -248,9 +248,9 @@ links:
   #   Color: '#d94869'
   #   Text_Color: '#ffffff'
 
-  - Name: ru.stackoverflow.com
+  - Name: ru.SO
     URL: https://ru.stackoverflow.com/users/1365
-    Icon-Class: fas fa-stack-overflow
+    Icon-Class: fa-brands fa-stack-overflow
     Color: '#4385b4'
     Text_Color: '#ffffff'
 
