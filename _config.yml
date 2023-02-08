@@ -23,18 +23,18 @@ links:
   #   Icon-Class: fab fa-facebook
 
     # INSTAGRAM
-  - Name: Instagram
-    URL: https://www.instagram.com
-    Username: 
-    Color: '#DD2A7B'
-    Icon-Class: fab fa-instagram
+  # - Name: Instagram
+  #   URL: https://www.instagram.com
+  #   Username: 
+  #   Color: '#DD2A7B'
+  #   Icon-Class: fab fa-instagram
 
     # TWITTER
-  - Name: Twitter
-    URL: https://twitter.com
-    Username: 
-    Color: '#1DA1F2'
-    Icon-Class: fab fa-twitter
+  # - Name: Twitter
+  #   URL: https://twitter.com
+  #   Username: 
+  #   Color: '#1DA1F2'
+  #   Icon-Class: fab fa-twitter
 
     # Cal.com
   # - Name: Cal.com
@@ -51,11 +51,11 @@ links:
   #   Icon-Class: fas fa-hand-paper -mt-0.5
     
     # LINKEDIN
-  - Name: LinkedIn
-    URL: https://www.linkedin.com/in
-    Username: 
-    Color: '#2867B2'
-    Icon-Class: fab fa-linkedin-in
+  # - Name: LinkedIn
+  #   URL: https://www.linkedin.com/in
+  #   Username: 
+  #   Color: '#2867B2'
+  #   Icon-Class: fab fa-linkedin-in
 
     # YOUTUBE
   # - Name: YouTube
@@ -67,7 +67,7 @@ links:
     # GITHUB
   - Name: GitHub
     URL: http://github.com
-    Username: 
+    Username: insolor
     Color: '#6e5494'
     Icon-Class: fab fa-github
 
@@ -118,7 +118,7 @@ links:
     # TELEGRAM
   - Name: Telegram
     URL: http://telegram.me
-    Username: 
+    Username: insolor
     Color: '#0088cc'
     Icon-Class: fab fa-telegram-plane
 
@@ -249,7 +249,8 @@ links:
   #   Text_Color: '#ffffff'
 
   - Name: ru.SO
-    URL: https://ru.stackoverflow.com/users/1365
+    URL: https://ru.stackoverflow.com/users
+    Username: '1365/insolor'
     Icon-Class: fa-brands fa-stack-overflow
     Color: '#4385b4'
     Text_Color: '#ffffff'
