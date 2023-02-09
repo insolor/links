@@ -40,3 +40,6 @@ baseurl: /links
 
 # Default Markdown Engine
 markdown: kramdown
+
+yandex_metrika:
+  id: 92393321
