@@ -53,7 +53,7 @@
 
   # GITHUB
 - Name: GitHub
-  URL: http://github.com
+  URL: https://github.com
   Username: insolor
   Color: '#6e5494'
   Icon-Class: fab fa-github
@@ -90,7 +90,7 @@
 
   # REDDIT
 # - Name: Reddit
-#   URL: http://reddit.com/u
+#   URL: https://reddit.com/u
 #   Username: 
 #   Color: '#FF4500'
 #   Icon-Class: fab fa-reddit-alien
@@ -104,7 +104,7 @@
 
   # TELEGRAM
 - Name: Telegram
-  URL: http://telegram.me
+  URL: https://telegram.me
   Username: insolor
   Color: '#0088cc'
   Icon-Class: fab fa-telegram-plane
@@ -172,7 +172,7 @@
 
   # SPOTIFY
 # - Name: Spotify
-#   URL: http://open.spotify.com/user
+#   URL: https://open.spotify.com/user
 #   Username: 
 #   Color: '#1DB954'
 #   Icon-Class: fab fa-spotify
