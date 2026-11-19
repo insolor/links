@@ -38,11 +38,11 @@
 #   Icon-Class: fas fa-hand-paper -mt-0.5
   
   # LINKEDIN
-# - Name: LinkedIn
-#   URL: https://www.linkedin.com/in
-#   Username: 
-#   Color: '#2867B2'
-#   Icon-Class: fab fa-linkedin-in
+- Name: LinkedIn
+  URL: https://www.linkedin.com/in/mikhail-manturov/
+  Username: 
+  Color: '#2867B2'
+  Icon-Class: fab fa-linkedin-in
 
   # YOUTUBE
 # - Name: YouTube
