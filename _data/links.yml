@@ -235,12 +235,12 @@
 #   Color: '#d94869'
 #   Text_Color: '#ffffff'
 
-- Name: ru.SO
-  URL: https://ru.stackoverflow.com/users
-  Username: '1365/insolor'
-  Icon-Class: fa-brands fa-stack-overflow
-  Color: '#4385b4'
-  Text_Color: '#ffffff'
+# - Name: ru.SO
+#   URL: https://ru.stackoverflow.com/users
+#   Username: '1365/insolor'
+#   Icon-Class: fa-brands fa-stack-overflow
+#   Color: '#4385b4'
+#   Text_Color: '#ffffff'
 
 # Additional link examples
 # - Name: X
