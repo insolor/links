@@ -8,7 +8,7 @@ tagline: "TODO: some tagline"
 Image_URL: https://github.com/insolor.png
 
 # CHANGE THE BACKGROUND IMAGE OF THE WEBSITE BY JUST ADDING THE IMAGE URL
-Cover_Image: https://source.unsplash.com/random
+Cover_Image: https://picsum.photos/1080?nocache=
 
 # Links are moved into _data/links.yml
 

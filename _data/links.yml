@@ -241,3 +241,64 @@
   Icon-Class: fa-brands fa-stack-overflow
   Color: '#4385b4'
   Text_Color: '#ffffff'
+
+# Additional link examples
+# - Name: X
+#   URL: https://x.com
+#   Username: ''
+#   Color: '#000000'
+#   Icon-Class: fa-brands fa-x-twitter
+
+# - Name: Google Appointment
+#   URL: ''
+#   Color: '#1b66c9'
+#   Icon-Class: fa-regular fa-calendar-days
+#   Text_Color: '#ffffff'
+
+# - Name: Threads
+#   URL: https://threads.net
+#   Username: ''
+#   Color: '#000000'
+#   Icon-Class: fa-brands fa-threads
+#   Text_Color: '#ffffff'
+
+# - Name: Bluesky
+#   URL: https://bsky.app/profile
+#   Username: ''
+#   Color: '#58a2fc'
+#   Icon-Class: fa-brands fa-bluesky
+
+# - Name: WordPress.org
+#   URL: https://profiles.wordpress.org
+#   Username: ''
+#   Icon-Class: fa-brands fa-wordpress-simple
+#   Color: '#0073AA'
+#   Text_Color: '#ffffff'
+
+# - Name: GoogleDev
+#   URL: https://g.dev
+#   Username: ''
+#   Icon-Class: fa-brands fa-google
+#   Color: '#F4B400'
+#   Text_Color: '#DB4437'
+
+# - Name: Mastodon
+#   URL: https://fosstodon.org
+#   Username: ''
+#   Icon-Class: fa-brands fa-mastodon
+#   Color: '#5a39c9'
+#   Text_Color: '#ffffff'
+
+# - Name: Peerlist
+#   URL: https://peerlist.io
+#   Username: ''
+#   Icon-Class: fa-solid fa-p
+#   Color: '#18aa4a'
+#   Text_Color: '#ffffff'
+
+# - Name: WithUPI
+#   URL: https://withupi.com/
+#   Username: ''
+#   Icon-Class: fa-regular fa-thumbs-up
+#   Color: '#fcbf49'
+#   Text_Color: '#23353f'
