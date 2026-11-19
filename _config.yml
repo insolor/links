@@ -41,5 +41,9 @@ baseurl: /links
 # Default Markdown Engine
 markdown: kramdown
 
-yandex_metrika:
-  id: 48492119
+# yandex_metrika:
+#   id: 48492119
+
+# Set the GoatCounter site code to enable pageview tracking.
+goatcounter:
+  code: insolor

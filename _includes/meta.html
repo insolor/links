@@ -14,3 +14,6 @@
 {% if site.yandex_metrika.id != empty and site.yandex_metrika.id %}
   {% include yandex-metrika.html %}
 {% endif %}
+{% if site.goatcounter.code and site.goatcounter.code != empty %}
+  {% include goatcounter.html %}
+{% endif %}
